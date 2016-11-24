@@ -1,0 +1,34 @@
+{
+  "name": "JSTree",
+  "version": "1.0.0",
+  "description": "Tree assignment",
+  "main": "main.js",
+  "license": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "Tree"
+  ],
+  "author": "Dmitry Shiryaev",
+  "devDependencies": {
+    "grunt": ">= 0.4",
+    "grunt-contrib-concat": ">=0.5.1",
+    "grunt-contrib-jasmine": ">=1.0.0",
+    "grunt-contrib-jshint": ">=0.11.2",
+    "grunt-exec": ">=0.4.6",
+    "grunt-express-server": ">=0.5.1",
+    "grunt-plato": ">=1.2.1",
+    "grunt-shell-spawn": ">=0.3.8",
+    "grunt-sloc": ">=0.6.0",
+    "grunt-template-jasmine-istanbul": ">=0.3.3",
+    "jshint-html-reporter": "^0.2.4"
+  }
+}
